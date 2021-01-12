@@ -1,0 +1,16 @@
+.flex {
+    display: flex;
+    height: 260px;
+    padding: 15px;
+    /* // 有 row | row-reverse | column | column-reverse; */
+    flex-direction: row;
+  }
+.fuckplace {
+    flex: 1;
+    display: flex;
+    width: 10px;
+  }
+.fucktable{
+    flex: 2;
+    overflow: auto;
+  }
